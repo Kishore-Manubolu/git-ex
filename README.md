@@ -1,2 +1,2 @@
 # git-ex
-to test git functionality
+To test git functionality
